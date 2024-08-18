@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+#Here Some Deployment Screenshots
+![image](https://github.com/user-attachments/assets/3b4b6987-df58-440b-bb7d-2d81a8f30086)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+CRM: POST, GET
+![Screenshot (707)](https://github.com/user-attachments/assets/24d9fe22-6431-479d-bded-74a6cc8d5daa)
+
+![Screenshot (708)](https://github.com/user-attachments/assets/99e10f40-ef37-4af5-9fa9-dbb9f9c099b2)
+
+![Uploading Screenshot (710).png…]()
+
+
 
 ## Available Scripts
 
